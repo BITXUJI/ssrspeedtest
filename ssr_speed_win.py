@@ -72,7 +72,7 @@ ssr_port=6665
 # def filemvrn(json):
 
 def ssrlink_txt(subfname):
-	path='C:/Users/bitxuji/Downloads/Telegram Desktop/'
+	#path='C:/Users/bitxuji/Downloads/Telegram Desktop/'
 	ssrlink=[]
 	fname=path+subfname
 	temp='ssr://'
